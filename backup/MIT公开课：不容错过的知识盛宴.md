@@ -1,4 +1,4 @@
-# Introduction to Computational Thinking and Data Science
+# 1. Introduction to Computational Thinking and Data Science
 计算思维和数据科学简介
 
 6.00.2x 介绍了如何使用计算来理解现实世界的现象。
@@ -19,7 +19,7 @@
 
 [链接](https://edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science?index=product_value_experiment_a)
 
-# Introduction to Computer Science and Programming Using Python
+# 2. Introduction to Computer Science and Programming Using Python
 计算机科学和使用 Python 编程简介
 
 ## 简介
@@ -35,7 +35,7 @@
 
 [链接](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product_value_experiment_a)
 
-# Cybersecurity for Critical Urban Infrastructure
+# 3. Cybersecurity for Critical Urban Infrastructure
 关键城市基础设施的网络安全
 
 ## 简介
@@ -75,7 +75,7 @@
 
 [链接](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning)
 
-# Data Analysis: Statistical Modeling and Computation in Applications
+# 3. Data Analysis: Statistical Modeling and Computation in Applications
 数据分析：应用中的统计建模和计算
 
 ## 简介
@@ -90,7 +90,7 @@
 
 [🔗](https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications)
 
-# Startup Success: How to Launch a Technology Company in 6 Steps
+# 4. Startup Success: How to Launch a Technology Company in 6 Steps
 创业成功：如何通过 6 个步骤创办一家科技公司
 
 ## 学习内容
@@ -102,14 +102,14 @@
 
 [🔗](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-startup-success-how-to-launch-a-technology-company)
 
-# Foundations of Modern Finance I
+# 5. Foundations of Modern Finance I
 现代金融基础 I
 
 一个数学上严格的框架，用于理解金融市场，并提供来自 MIT 教授的数据驱动见解。
 
 [🔗](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-foundations-of-modern-finance-i)
 
-# Probability - The Science of Uncertainty and Data
+# 6. Probability - The Science of Uncertainty and Data
 概率 - 不确定性和数据科学
 
 ## 教学大纲
