@@ -41,7 +41,7 @@
 ## 简介
 11.S198x通过一系列解释性视频（由行业专家准备）、实际攻击案例研究、角色扮演模拟和汇报以及简短的指定阅读材料，您将了解城市可以和应该做些什么来减少其脆弱性。
 
-# Machine Learning with Python: from Linear Models to Deep Learning
+# 4. Machine Learning with Python: from Linear Models to Deep Learning
 通过动手实践 Python 项目，深入介绍机器学习领域，从线性模型到深度学习和强化学习
 
 ## 学习内容
@@ -75,7 +75,7 @@
 
 [链接](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning)
 
-# 3. Data Analysis: Statistical Modeling and Computation in Applications
+# 5. Data Analysis: Statistical Modeling and Computation in Applications
 数据分析：应用中的统计建模和计算
 
 ## 简介
@@ -90,7 +90,7 @@
 
 [🔗](https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications)
 
-# 4. Startup Success: How to Launch a Technology Company in 6 Steps
+# 6. Startup Success: How to Launch a Technology Company in 6 Steps
 创业成功：如何通过 6 个步骤创办一家科技公司
 
 ## 学习内容
@@ -102,14 +102,14 @@
 
 [🔗](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-startup-success-how-to-launch-a-technology-company)
 
-# 5. Foundations of Modern Finance I
+# 7. Foundations of Modern Finance I
 现代金融基础 I
 
 一个数学上严格的框架，用于理解金融市场，并提供来自 MIT 教授的数据驱动见解。
 
 [🔗](https://www.edx.org/learn/finance/massachusetts-institute-of-technology-foundations-of-modern-finance-i)
 
-# 6. Probability - The Science of Uncertainty and Data
+# 8. Probability - The Science of Uncertainty and Data
 概率 - 不确定性和数据科学
 
 ## 教学大纲
