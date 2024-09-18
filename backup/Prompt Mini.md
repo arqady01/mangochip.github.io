@@ -90,7 +90,7 @@ Make sure all <tags> are on separate lines with no other text. Do not include ot
 
 让 claude 3.5 sonnet 生成 o1 一样的思维链！😎 100% 解决 "9.9,9.11" 和 80% 解决"strawberry" 问题:
 
-![图片](source/a1.png)
+![a1](https://github.com/arqady01/mangochip.github.io/blob/main/source/a1.png)
 
 ```markdown
 # 语言: zh-CN
