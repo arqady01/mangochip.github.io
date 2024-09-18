@@ -85,6 +85,10 @@ Make sure all <tags> are on separate lines with no other text. Do not include ot
 通过DeepL.com（免费版）翻译
 ```
 
+# so1
+
+![图片](source/a1.png)
+
 # gpt4
 
 ```jsx
