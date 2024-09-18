@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Sep 2024 01:51:58 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>clash配置</title><link>https://arqady01.github.io/mangochip.github.io/post/clash-pei-zhi.html</link><description>| 匹配方式 | 匹配内容 | 举例 |&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 18 Sep 2024 14:50:49 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>clash配置</title><link>https://arqady01.github.io/mangochip.github.io/post/clash-pei-zhi.html</link><description>| 匹配方式 | 匹配内容 | 举例 |&#13;
 |--|--|--|&#13;
 DOMAIN | 匹配完整域名 | ad.com&#13;
 DOMAIN-SUFFIX | 匹配域名后缀 | google.com&#13;
@@ -58,6 +58,7 @@ cursor + gpt_next/claude-3.5-sonnet 一边截图一边学习，以前学的多�
 &#13;
 ```&#13;
 撰写一封应聘[职位]在[公司]的求职信，突出我在[特定领域/技术]方面的经验。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/jian-li-fu-mo.html</guid><pubDate>Sat, 07 Sep 2024 07:40:48 +0000</pubDate></item><item><title>Prompt Mini</title><link>https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</link><description>- [思考-反思-输出](#思考-反思-输出)&#13;
+- [so1](#so1)&#13;
 - [gpt4](#gpt4)&#13;
 - [prompt评分专家](#prompt----)&#13;
 - [prompt评委](#prompt评委)&#13;
