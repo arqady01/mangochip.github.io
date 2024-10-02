@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 25 Sep 2024 18:08:07 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>clash配置</title><link>https://arqady01.github.io/mangochip.github.io/post/clash-pei-zhi.html</link><description>| 匹配方式 | 匹配内容 | 举例 |&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 02 Oct 2024 03:28:47 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>指定GitHub仓库默认缩进</title><link>https://arqady01.github.io/mangochip.github.io/post/zhi-ding-GitHub-cang-ku-mo-ren-suo-jin.html</link><description># 创建 .editorconfig 文件&#13;
+&#13;
+# EditorConfig is awesome: https://editorconfig.org&#13;
+&#13;
+# 顶层的 EditorConfig 文件&#13;
+root = true&#13;
+&#13;
+# 针对所有文件的通用设置&#13;
+[*]&#13;
+indent_style = space  # 使用空格缩进&#13;
+indent_size = 4       # 缩进大小为 4&#13;
+end_of_line = lf      # 使用 LF 换行符&#13;
+charset = utf-8       # 文件编码为 UTF-8&#13;
+insert_final_newline = true  # 文件末尾插入换行&#13;
+。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/zhi-ding-GitHub-cang-ku-mo-ren-suo-jin.html</guid><pubDate>Wed, 02 Oct 2024 03:28:20 +0000</pubDate></item><item><title>clash配置</title><link>https://arqady01.github.io/mangochip.github.io/post/clash-pei-zhi.html</link><description>| 匹配方式 | 匹配内容 | 举例 |&#13;
 |--|--|--|&#13;
 DOMAIN | 匹配完整域名 | ad.com&#13;
 DOMAIN-SUFFIX | 匹配域名后缀 | google.com&#13;
