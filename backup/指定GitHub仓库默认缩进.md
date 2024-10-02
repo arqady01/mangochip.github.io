@@ -1,5 +1,6 @@
-# 创建 .editorconfig 文件
+创建 .editorconfig 文件
 
+```markdown
 # EditorConfig is awesome: https://editorconfig.org
 
 # 顶层的 EditorConfig 文件
@@ -12,3 +13,4 @@ indent_size = 4       # 缩进大小为 4
 end_of_line = lf      # 使用 LF 换行符
 charset = utf-8       # 文件编码为 UTF-8
 insert_final_newline = true  # 文件末尾插入换行
+```
