@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 02 Oct 2024 03:35:10 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>指定GitHub仓库默认缩进</title><link>https://arqady01.github.io/mangochip.github.io/post/zhi-ding-GitHub-cang-ku-mo-ren-suo-jin.html</link><description>创建 .editorconfig 文件&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 09 Oct 2024 06:13:58 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>大陆环境安装docker</title><link>https://arqady01.github.io/mangochip.github.io/post/da-lu-huan-jing-an-zhuang-docker.html</link><description>pip速度太慢，永久配置镜像代理：`pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple&#13;
+`&#13;
+&#13;
+在Linux云服务器上安装Docker，步骤：&#13;
+1. **更新系统软件包索引**：&#13;
+   首先，您需要更新服务器的软件包索引。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/da-lu-huan-jing-an-zhuang-docker.html</guid><pubDate>Wed, 09 Oct 2024 06:13:29 +0000</pubDate></item><item><title>指定GitHub仓库默认缩进</title><link>https://arqady01.github.io/mangochip.github.io/post/zhi-ding-GitHub-cang-ku-mo-ren-suo-jin.html</link><description>创建 .editorconfig 文件&#13;
 &#13;
 ```markdown&#13;
 # EditorConfig is awesome: https://editorconfig.org&#13;
