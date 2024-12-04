@@ -136,4 +136,4 @@ Important Reminders:
 
 5. 正规化开发流程
 
-利用git+github来存储代码，帮助开发，有利于代码回退
+利用`git`+`github`来存储代码，帮助开发，有利于代码回退
