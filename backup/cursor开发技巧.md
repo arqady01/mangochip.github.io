@@ -132,7 +132,7 @@ Important Reminders:
 
 4. 合理使用标记
 
-@Codebase
+`@Codebase`
 
 5. 正规化开发流程
 
