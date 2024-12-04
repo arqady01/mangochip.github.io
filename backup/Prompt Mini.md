@@ -1,6 +1,6 @@
 - [思考-反思-输出](#思考-反思-输出)
-- google团队(#google团队)
-- 开发(#开发)
+- [google团队](#google团队)
+- [开发](#开发)
 - [so1](#so1)
 - [gpt4](#gpt4)
 - [prompt评分专家](#prompt----)
