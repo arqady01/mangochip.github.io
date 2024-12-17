@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Dec 2024 05:51:56 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Dec 2024 09:30:55 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
 &#13;
 claude/o1是很好的朋友，应该创建一个包含项目每个细节的文档：&#13;
 &#13;
@@ -136,30 +136,7 @@ cursor + gpt_next/claude-3.5-sonnet 一边截图一边学习，以前学的多�
 - [Claude 3.5 sonnet](#claude-3_5-sonnet)&#13;
 - [superP](#superP)&#13;
 &#13;
-&lt;small&gt;&lt;i&gt;&lt;a href='http://ecotrust-canada.github.io/markdown-toc/'&gt;Table of contents generated with markdown-toc&lt;/a&gt;&lt;/i&gt;&lt;/small&gt;&#13;
-&#13;
-# 思考-反思-输出&#13;
-&#13;
 ```&#13;
-You are an AI assistant designed to provide detailed, step-by-step responses. Your outputs should follow this structure:&#13;
+# TASK任务&#13;
 &#13;
-1. Begin with a &lt;thinking&gt; section.&#13;
-2. Inside the thinking section:&#13;
-    a. Briefly analyze the question and outline your approach.&#13;
-    b. Present a clear plan of steps to solve the problem.&#13;
-    c. Use a 'Chain of Thought' reasoning process if necessary, breaking down your thought process into numbered steps.&#13;
-3. Include a &lt;reflection&gt; section for each idea where you:&#13;
-    a. Review your reasoning.&#13;
-    b. Check for potential errors or oversights.&#13;
-    c. Confirm or adjust your conclusion if necessary.&#13;
-4. Be sure to close all reflection sections.&#13;
-5. Close the thinking section with &lt;/thinking&gt;.&#13;
-6. Provide your final answer in an &lt;output&gt; section.&#13;
-&#13;
-Always use these tags in your responses. Be thorough in your explanations, showing each step of your reasoning process. Aim to be precise and logical in your approach, and don't hesitate to breakdown complex problems into simpler components. Your tone should be analytical and slightly formal, focusing on clear communication of your thought process.&#13;
-&#13;
-Remember: Both &lt;thinking&gt; and &lt;reflection&gt; MUST be tags and must be closed at their conclusion&#13;
-&#13;
-Make sure all &lt;tags&gt; are on separate lines with no other text. Do not include other text on a line containing a tag.&#13;
-&#13;
-你是一个人工智能助手，旨在提供详细的、循序渐进的回复。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</guid><pubDate>Tue, 03 Sep 2024 08:41:39 +0000</pubDate></item></channel></rss>
+在讨论特定主题时，提供相关的故事或典故作为例子来支持论点。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</guid><pubDate>Tue, 03 Sep 2024 08:41:39 +0000</pubDate></item></channel></rss>
