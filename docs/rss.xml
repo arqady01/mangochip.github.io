@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Dec 2024 09:30:55 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Dec 2024 09:34:43 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
 &#13;
 claude/o1是很好的朋友，应该创建一个包含项目每个细节的文档：&#13;
 &#13;
@@ -94,49 +94,6 @@ cursor + gpt_next/claude-3.5-sonnet 一边截图一边学习，以前学的多�
 。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/ji-qi-xue-xi-suo-xu-de-xian-xing-dai-shu-he-wei-ji-fen-%E2%9A%A1%EF%B8%8F.html</guid><pubDate>Sat, 07 Sep 2024 07:49:20 +0000</pubDate></item><item><title>简历附魔</title><link>https://arqady01.github.io/mangochip.github.io/post/jian-li-fu-mo.html</link><description>1. 撰写求职信&#13;
 &#13;
 ```&#13;
-撰写一封应聘[职位]在[公司]的求职信，突出我在[特定领域/技术]方面的经验。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/jian-li-fu-mo.html</guid><pubDate>Sat, 07 Sep 2024 07:40:48 +0000</pubDate></item><item><title>Prompt Mini</title><link>https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</link><description>- [思考-反思-输出](#思考-反思-输出)&#13;
-- [google团队](#google团队)&#13;
-- [开发](#开发)&#13;
-- [so1](#so1)&#13;
-- [gpt4](#gpt4)&#13;
-- [prompt评分专家](#prompt----)&#13;
-- [prompt评委](#prompt评委)&#13;
-- [chrome插件作者](#chrome----)&#13;
-- [越狱模式](#----)&#13;
-- [汉语新解](#汉语新解)&#13;
-- [林黛玉](#---)&#13;
-- [国粹NPC](#--npc)&#13;
-- [胡怼怼](#---)&#13;
-- [Gan简易对抗器](#gan-----)&#13;
-- [愤青](#--)&#13;
-- [Money Maker 赚钱者](#money-maker----)&#13;
-- [数学家](#---)&#13;
-- [Code Assistant 代码助理](#code-assistant-----)&#13;
-- [C++项目开发](#c------)&#13;
-- [安卓应用开发](#Android)&#13;
-- [Linux终端](#linux--)&#13;
-- [文本改进器](#-----)&#13;
-- [学术英语语句改进](#--------)&#13;
-- [学术润色专家](#------)&#13;
-- [Translator 翻译](#translator---)&#13;
-- [结论生成器](#-----)&#13;
-- [hashtag生成器](#hashtag---)&#13;
-- [文章洗稿](#文章洗稿)&#13;
-- [小红书平台标题写手](#---------)&#13;
-- [小红书平台正文写手](#---------)&#13;
-- [Stable Diffusion 提示词优化](#stable-diffusion------)&#13;
-- [midjourney 画图助手](#midjourney-----)&#13;
-- [3D壁纸](#3d--)&#13;
-- [专业LOGO设计](#--logo--)&#13;
-- [医生](#--)&#13;
-- [临床医生](#----)&#13;
-- [足球评论员](#-----)&#13;
-- [域名生成器](#-----)&#13;
-- [密码生成器](#-----)&#13;
-- [Claude 3.5 sonnet](#claude-3_5-sonnet)&#13;
-- [superP](#superP)&#13;
+撰写一封应聘[职位]在[公司]的求职信，突出我在[特定领域/技术]方面的经验。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/jian-li-fu-mo.html</guid><pubDate>Sat, 07 Sep 2024 07:40:48 +0000</pubDate></item><item><title>Prompt Mini</title><link>https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</link><description>https://www.yuque.com/raovt10/ov2zta/fwo4a0tu1nu88nva?singleDoc&#13;
 &#13;
-```&#13;
-# TASK任务&#13;
-&#13;
-在讨论特定主题时，提供相关的故事或典故作为例子来支持论点。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</guid><pubDate>Tue, 03 Sep 2024 08:41:39 +0000</pubDate></item></channel></rss>
+# 《prompt自用库》 密码：towc。</description><guid isPermaLink="true">https://arqady01.github.io/mangochip.github.io/post/Prompt%20Mini.html</guid><pubDate>Tue, 03 Sep 2024 08:41:39 +0000</pubDate></item></channel></rss>
