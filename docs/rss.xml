@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Wed, 04 Dec 2024 06:16:20 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>斑门永存</title><link>https://arqady01.github.io/mangochip.github.io</link><description>黄昏的太阳，莫要把它当成了黎明的曙光</description><copyright>斑门永存</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://arqady01.github.io/mangochip.github.io</link></image><lastBuildDate>Tue, 17 Dec 2024 05:51:56 +0000</lastBuildDate><managingEditor>斑门永存</managingEditor><ttl>60</ttl><webMaster>斑门永存</webMaster><item><title>cursor开发技巧</title><link>https://arqady01.github.io/mangochip.github.io/post/cursor-kai-fa-ji-qiao.html</link><description>1. 先构思，后编码&#13;
 &#13;
 claude/o1是很好的朋友，应该创建一个包含项目每个细节的文档：&#13;
 &#13;
@@ -121,6 +121,7 @@ cursor + gpt_next/claude-3.5-sonnet 一边截图一边学习，以前学的多�
 - [Translator 翻译](#translator---)&#13;
 - [结论生成器](#-----)&#13;
 - [hashtag生成器](#hashtag---)&#13;
+- [文章洗稿](#文章洗稿)&#13;
 - [小红书平台标题写手](#---------)&#13;
 - [小红书平台正文写手](#---------)&#13;
 - [Stable Diffusion 提示词优化](#stable-diffusion------)&#13;
